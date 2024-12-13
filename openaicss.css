@@ -1,0 +1,14 @@
+.home1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    letter-spacing: 30%;
+}
+
+.make_space{
+    letter-spacing: 50%;
+}
+
+.make_bold{
+    size-adjust: 20%;
+}
